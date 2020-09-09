@@ -5,7 +5,11 @@ A simple calculator, that takes in an expression, as long as you may type, parse
 
 ### Building/Compiling
 #### If you have `make`
-* Run make, and then ./calculator
+* Run `make`, then the executable
+    ```sh
+    make
+    ./calculator
+    ```
 
 #### Without `make`
 * Simply compile the two .cpp files together, ie.
