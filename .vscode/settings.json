@@ -40,6 +40,26 @@
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "ranges": "cpp",
+        "bit": "cpp",
+        "chrono": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "mutex": "cpp",
+        "numeric": "cpp",
+        "ratio": "cpp",
+        "stop_token": "cpp",
+        "thread": "cpp",
+        "variant": "cpp",
+        "*.inc": "cpp",
+        "condition_variable": "cpp"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#540B4E",
+        "titleBar.activeBackground": "#75106D",
+        "titleBar.activeForeground": "#FEFBFE"
     }
 }
